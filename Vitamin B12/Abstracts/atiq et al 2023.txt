@@ -1,0 +1,14 @@
+Prevalence and Predictors of Vitamin B12 Deficiency in Children with Severe Acute Malnutrition, and its Association with Development
+
+Abstract
+Objectives
+To determine the proportion of children with severe acute malnutrition (SAM) having vitamin B12 deficiency, its clinical predictors, and its association with development.
+
+Methods
+In this cross-sectional study, 100 children between 1 mo to 59 mo [mean (SD) age 17 (12.75) mo; 55 males], with diagnosis of SAM as per WHO criteria, were included. Serum vitamin B12, serum folate, and serum ferritin levels were measured by chemiluminescence immunometric assay method, while serum Homocysteine (Hcy) level was measured by enzymatic cycling method. Development assessment was done by Denver Development Screening Tool (DDST-II).
+
+Results
+The mean (SD) serum vitamin B12 (cobalamin) levels were 296.52 (246.95) pg/mL; 45% children were vitamin B12 deficient (<203 pg/mL). Hyperhomocysteinemia (>14 µmol/L) was present in 39 (39%), and among these 69% (27/39) children had concomitant low serum vitamin B12 levels. Severe anemia and hypoproteinemia were significantly and independently associated with vitamin B12 deficiency [aOR (95% CI) 3.22 (1.13, 10) and 10 (1.66, 58.82), respectively]. Out of 45 children who were vitamin B12 deficient, 93%, 87%, 62% and 80% had gross motor, fine-motor, language and adaptive-cognitive delay, respectively. Vitamin B12 level was significantly associated (P <0.001) with developmental delay.
+
+Conclusions
+There is a high prevalence of vitamin B12 deficiency in children with SAM, which is also associated with development delay across all domains (except language) in these children.
