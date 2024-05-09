@@ -1,0 +1,10 @@
+Paradoxical Response of Parathyroid Hormone to Vitamin D–Calcium Supplementation in Indian Children
+
+Objectives
+To investigate the effect of oral vitamin D–calcium supplementation on serum intact parathyroid hormone (PTH), calcium, phosphorous, and alkaline phosphatase (ALK-P) concentrations in children with habitually low calcium intakes.
+Study design
+In this follow-up study to a randomized controlled trial that aimed to assess the effect of vitamin D–calcium supplementation on immunity, data related to dietary intake, anthropometry, and biochemistry [serum 25(OH)D and bone profile] were collected from 178 children—79 in the vitamin D group and 99 in the non-vitamin D group.
+Results
+Dietary calcium to phosphorus intake ratio was 0.4:1. Baseline serum 25(OH)D concentration was 58.2 ± 10.9 nmol/L; 66% children were vitamin D sufficient and none deficient. After supplementation, vitamin D group, compared with the non-vitamin D group, had significantly (P < .05) greater 25(OH)D (83.9 ± 30.1 nmol/L vs 58.3 ± 15.7 nmol/L), significantly greater PTH (6.7 ± 3.6 pmol/L vs 5.5 ± 3.2 pmol/L), and positive correlation (rs = 0.24) between serum 25(OH)D and PTH (vs negative correlation [rs = −0.1] in non-vitamin D group). Mean concentrations of serum bone measures in the vitamin D group were calcium (2.2 ± 0.1 mmol/L), phosphorus (1.7 ± 0.2 mmol/L), and ALK-P (178.7 ± 40.7 IU/L). At follow-up, 1-year post-supplementation, in the vitamin D group, PTH concentrations continued to remain high (but not significantly different from levels at 6 months), with low normal serum calcium, high normal phosphate, and ALK-P in reference range.
+Conclusions
+In children who are vitamin D sufficient but with habitually low dietary calcium intake, vitamin D–calcium supplementation paradoxically and significantly increased serum PTH concentrations with no apparent effect on other bone biochemistry. Chronic low dietary calcium to phosphorus ratio is likely to have caused this paradoxical response.
