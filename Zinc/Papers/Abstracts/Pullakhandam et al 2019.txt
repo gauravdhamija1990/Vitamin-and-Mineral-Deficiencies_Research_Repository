@@ -1,0 +1,10 @@
+Population zinc (Zn) status assessment is based on serum zinc concentration (SZC) cut-offs defined by the International Zinc Nutrition Consultative Group (IZiNCG). The objective of this study is to derive reference SZC cut-offs in apparently healthy 1-19 year Indian children and adolescents using comprehensive national nutrition survey (CNNS) data, and to measure the prevalence of Zn deficiency.
+
+Subjects/Methods
+Apparently healthy children (n = 12,473) were selected from the CNNS, by including the highest 2 wealth quintiles, and excluding stunted, thin and obese children, and those with CRP > 5 mg/L, anaemia, hypo-albuminemia, diabetes, recent diarrhoea and history of smoking. The 2.5th centile of age-based distributions defined the SZC cut-offs, used to measure the prevalence of Zn deficiency in India, as against the IZiNCG cut-offs.
+
+Results
+The present study SZC cut-offs were significantly lower, by 10–18 µg/dL, than the IZiNCG cut-offs; more in adolescents. Prevalence of Zn deficiency in the entire CNNS, with these cut-offs, was 2.7 (<10 years) to 5.5 (10-19 years) times lower than with the IZiNCG cut-offs. No geographical state, nor any age group, had Zn deficiency as a serious public health problem (≥20%). In contrast, with IZiNCG cut-offs, 9-27 states (depending on age group) had a public health problem.
+
+Conclusions
+The present study reference SZC cut-offs for Zn deficiency are lower than the IZiNCG cut-offs, and their rigorous selection from a national sample makes them more appropriate for use in India. A re-examination of the global applicability of IZiNCG recommended cut-offs in other LMICs appears appropriate.
