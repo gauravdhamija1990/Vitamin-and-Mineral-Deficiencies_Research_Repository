@@ -1,0 +1,24 @@
+Vitamin D and calcium supplementation, skeletal muscle strength and serum testosterone in young healthy adult males: Randomized control trial
+
+Background
+Cholecalciferol and/or calcium supplementation might increase skeletal muscle strength and serum testosterone in young adult males.
+
+Objective
+We performed a randomized control trial assessing the effect of cholecalciferol/calcium on skeletal muscle strength and serum testosterone in vitamin D deficient young males.
+
+Design
+Two-by-two factorial RCT.
+
+Subject and Intervention
+Two-hundred and twenty-eight young males were block-randomized to (i) double-placebo, (ii) calcium/placebo, (iii) cholecalciferol/placebo and (iv) cholecalciferol/calcium. Doses for cholecalciferol were 60 000 IU/wk for 8 weeks followed by 60 000 IU/fortnightly, and doses for elemental calcium were 500 mg/twice daily for 6 months. A total of 180 subjects completed the study protocol. Their  ean age, body mass index and baseline 25(OH)D were 20.2 ± 2.2 years, 23.0 ± 3.6 kg/m2 and 21.5 ± 9.5 nmol/L, respectively.
+
+Measurements
+Handgrip (primary outcome), pinch-grip strength, distance walked in 6 minutes, dyspnoea-score, quality of life by Short Form 36, serum 25(OH)D, 1,25(OH)2D, iPTH, total testosterone and free androgen index (FAI).
+
+Results
+After intervention, mean serum 25(OH)D was >75.0 nmol/L in cholecalciferol groups. However, the handgrip strength (29.7 ± 4.4, 29.3 ± 4.6, 30.6 ± 5.0 and 28.8 ± 4.3 kg, P = .28) was comparable in the 4 groups. Subgroups analysis among subjects with baseline serum 25OH)D < 25.0 and <12.0 nmol/L showed similar results. The mean serum testosterone decreased significantly at 6 months; however, delta change was similar in 4 groups. Change in handgrip strength and other outcomes was similar in 4 groups with and without adjustment for delta testosterone and FAI.
+
+Conclusions
+Six months of cholecalciferol/calcium supplementation had no significant effect on skeletal muscle strength and serum testosterone in young adult males.
+
+REFERENCES
